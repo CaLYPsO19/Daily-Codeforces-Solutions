@@ -1,2 +1,2 @@
 # Daily-Codeforces-Solutions
-This repository contains the Daily Coding Problem solutions in Java.
+This repository contains the Daily Codeforces Problem solutions in Java.
